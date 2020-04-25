@@ -1,0 +1,23 @@
+{
+	"name": "suchipis-color-theme",
+	"displayName": "Suchipi's Color Theme",
+	"description": "The color theme Suchipi uses",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.44.0"
+	},
+	"publisher": "suchipi",
+	"repository": "suchipi/suchipis-color-theme",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Suchipi's Color Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Suchipi's Color Theme-color-theme.json"
+			}
+		]
+	}
+}
