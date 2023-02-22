@@ -19,5 +19,8 @@
 				"path": "./themes/Suchipi's Color Theme-color-theme.json"
 			}
 		]
+	},
+	"prettier": {
+		"useTabs": true
 	}
 }
