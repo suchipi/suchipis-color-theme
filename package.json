@@ -22,5 +22,6 @@
 	},
 	"prettier": {
 		"useTabs": true
-	}
+	},
+	"license": "MIT"
 }
