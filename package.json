@@ -2,7 +2,7 @@
 	"name": "suchipis-color-theme",
 	"displayName": "Suchipi's Color Theme",
 	"description": "The color theme Suchipi uses",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.44.0"
 	},
